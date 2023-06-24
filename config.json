@@ -1,0 +1,12 @@
+{
+    "modules": [
+        "main_navigation",
+        "qr_generator",
+        "qrcode_scanner",
+        "qrcode_detail",
+        "login_validation"
+    ],
+    "module_directory_name": "module",
+    "experimental_mode": false,
+    "unfreezed": true
+}
